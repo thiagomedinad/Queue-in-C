@@ -1,1 +1,1 @@
-# Queue implementation in C
+# Data Structures in C -- QUEUE
