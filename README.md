@@ -1,1 +1,1 @@
-# Data Structures in C -- QUEUE/FIFO
+# Data Structures in C -- Queue/FIFO
